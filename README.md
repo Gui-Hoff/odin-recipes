@@ -1,4 +1,4 @@
 My current project is to create a basic recipe website.
 
-!!!DESCRIBE WHAT SKILLS YOU HAVE DEMONSTRATED ONCE YOU HAVE 
-COMPLETED IT!!!
+Practice writing boiler-plate HTML as well as adding links, photos and text.
+
