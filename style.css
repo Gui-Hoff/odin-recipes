@@ -1,0 +1,40 @@
+div{
+    font-size: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: rgb(252, 252, 169);
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.title{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+   
+    }
+
+
+.pancakes,
+.lasagna,
+.strogonoff{
+    border: 5px dotted orange;
+}
+
+
+.lasagna{
+    margin: 30px;
+}
+
+.pancakes{
+    margin: 50px;
+}
+
+.strogonoff{
+    margin: 30px;
+}
+
+.chef{
+    margin-bottom: 0%;  
+}
